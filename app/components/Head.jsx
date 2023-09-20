@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { AiFillTwitterCircle, AiFillLinkedin, AiFillFacebook, AiFillGithub } from "react-icons/ai";
-import avatarImage from "../../public/image/my pic.png";
+import avatarImage from "../../public/image/my-pic.png";
 
 const HeadSecction = () => {
   return (
